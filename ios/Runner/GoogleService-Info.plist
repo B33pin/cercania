@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308131289617-kigk0g86h27egntf05jukqe7hum3oijo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308131289617-kigk0g86h27egntf05jukqe7hum3oijo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>308131289617-5bqmt21fa0esc129aqq6bqb8fkhp0nl2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcQ16GGqSxMZEshB4bSWh3ocv8VsucUGw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308131289617</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cercania</string>
+	<key>PROJECT_ID</key>
+	<string>cercania-f8bfe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cercania-f8bfe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308131289617:ios:0f57cea6e80658e003efb0</string>
+	<key>DATABASE_URL</key>
+	<string>https://cercania-f8bfe.firebaseio.com</string>
+</dict>
+</plist>

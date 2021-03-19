@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "308131289617",
+    "firebase_url": "https://cercania-f8bfe.firebaseio.com",
+    "project_id": "cercania-f8bfe",
+    "storage_bucket": "cercania-f8bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308131289617:android:e3020e52727de51103efb0",
+        "android_client_info": {
+          "package_name": "com.example.cercania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308131289617-o71d11kka8nv5h539clm758s3jl5f0cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9Jjld-MazFP87LI21SDHSRPTuFTg9f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308131289617-o71d11kka8nv5h539clm758s3jl5f0cq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308131289617-9d3vmdmhahp1rrgpofo5ps10s2n07pio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sparco.cercania"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308131289617:android:8fcf3e689d3996e803efb0",
+        "android_client_info": {
+          "package_name": "com.example.cercaniamain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308131289617-o71d11kka8nv5h539clm758s3jl5f0cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9Jjld-MazFP87LI21SDHSRPTuFTg9f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308131289617-o71d11kka8nv5h539clm758s3jl5f0cq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308131289617-9d3vmdmhahp1rrgpofo5ps10s2n07pio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sparco.cercania"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308131289617:android:833d99bb84c9bd4f03efb0",
+        "android_client_info": {
+          "package_name": "com.mark.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308131289617-5bqmt21fa0esc129aqq6bqb8fkhp0nl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mark.ecommerce",
+            "certificate_hash": "a801b4e714db284f1df4f672a1cb4fc52fbddbe3"
+          }
+        },
+        {
+          "client_id": "308131289617-8v3pj29blke054ll4diminpsbmhrqrcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mark.ecommerce",
+            "certificate_hash": "31ae7bd41d248ac1b7525ba81fd0b3ac9b979d6a"
+          }
+        },
+        {
+          "client_id": "308131289617-dh4rfhe2l6iacum1ctf70t17vejd92s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mark.ecommerce",
+            "certificate_hash": "19bfadbab1722702f16d5275dbe537b1630887e3"
+          }
+        },
+        {
+          "client_id": "308131289617-gcdqbbetceqbi48turrk2el3oub9l1ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mark.ecommerce",
+            "certificate_hash": "d2ef13c8a78f57bac1b41f9fc45a2ce54d832a3f"
+          }
+        },
+        {
+          "client_id": "308131289617-o71d11kka8nv5h539clm758s3jl5f0cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9Jjld-MazFP87LI21SDHSRPTuFTg9f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308131289617-o71d11kka8nv5h539clm758s3jl5f0cq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308131289617-9d3vmdmhahp1rrgpofo5ps10s2n07pio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sparco.cercania"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
